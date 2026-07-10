@@ -1,4 +1,4 @@
-# pi-theme-switcher
+# pi-live-theme
 
 A pi extension that adds a `/theme` slash command with **live theme preview**. Scroll through available themes and see them applied in real time as your cursor moves over each one.
 
