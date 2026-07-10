@@ -1,0 +1,29 @@
+{
+  "name": "pi-theme-switcher",
+  "version": "1.0.0",
+  "description": "A pi extension that adds a /theme slash command with live theme preview. Scroll through available themes and see them applied in real time.",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "theme",
+    "theme-switcher",
+    "theming"
+  ],
+  "author": "Aman Virani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraniaman94/pi-theme-switcher.git"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "files": [
+    "extensions/",
+    "README.md"
+  ]
+}
