@@ -1,5 +1,5 @@
 {
-  "name": "pi-theme-switcher",
+  "name": "pi-live-theme",
   "version": "1.0.0",
   "description": "A pi extension that adds a /theme slash command with live theme preview. Scroll through available themes and see them applied in real time.",
   "keywords": [
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viraniaman94/pi-theme-switcher.git"
+    "url": "git+https://github.com/viraniaman94/pi-live-theme.git"
   },
   "pi": {
     "extensions": ["./extensions"]
