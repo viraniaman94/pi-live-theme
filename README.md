@@ -13,13 +13,13 @@ A pi extension that adds a `/theme` slash command with **live theme preview**. S
 ## Install
 
 ```bash
-pi install npm:pi-theme-switcher
+pi install npm:pi-live-theme
 ```
 
 Or from git:
 
 ```bash
-pi install git:github.com/user/pi-theme-switcher
+pi install git:github.com/viraniaman94/pi-live-theme
 ```
 
 ## Usage
