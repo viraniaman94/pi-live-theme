@@ -22,6 +22,10 @@ Or from git:
 pi install git:github.com/viraniaman94/pi-live-theme
 ```
 
+## Demo
+
+![walkthrough](walkthrough.gif)
+
 ## Usage
 
 Type `/theme` in pi to open the theme selector:

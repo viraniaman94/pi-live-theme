@@ -1,3 +1,6 @@
 .git
 .gitignore
 node_modules
+walkthrough.tape
+poll-gallery.sh
+SHOW_HN.md
